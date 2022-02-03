@@ -74,11 +74,32 @@ img {
 
 
 @media screen and (max-width: 570px) {
-  
+
+  .row{
+    width: 100%;
+  }
+
   #lezioni .row>.left,
   #lezioni .row>.right{
    width: 100%;
-   background-color: lightyellow;
 }
 
+  .container{
+    width: 100%;
+  }
+
+  #steps .row>.left,
+  #steps .row>.central,
+  #steps .row>.right{
+    width: 100%;
+}
+
+  #lezioni{
+    background-color: lightyellow;
+  }
+  #why{
+    background-color: lightyellow;
+  }
+
+ 
 }

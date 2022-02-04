@@ -100,6 +100,8 @@ img {
   #why{
     background-color: lightyellow;
   }
-
+  img{
+    margin-top: 20px;
+  }
  
 }
